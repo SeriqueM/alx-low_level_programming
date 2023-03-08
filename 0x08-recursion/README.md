@@ -1,0 +1,1 @@
+This project is an introduction into Recursion and the various ways to impliment the consept into functions
